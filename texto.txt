@@ -6,3 +6,8 @@ Algún otro cambio
 van a ver que no aparece el punto blanco
 si no guardo no aparece
 ---------------------------------------------------
+
+PUNTO 2
+---------------------------------------------------
+Otra cosa estoy modificando
+---------------------------------------------------
